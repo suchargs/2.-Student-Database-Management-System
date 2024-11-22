@@ -1,3 +1,9 @@
+Task2
+
+Project: Student Database Management System
+
+The project is done using MySQL and PostgreSQL as well. 
+Two SQL files are attached.
 
 1. Database Setup
 a. Create the Database:
